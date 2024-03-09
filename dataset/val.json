@@ -1,0 +1,402 @@
+[
+    {
+        "input": "Its good to hear from you",
+        "label": "ham"
+    },
+    {
+        "input": "awesome, how do I deal with the gate? Charles told me last night but, uh, yeah",
+        "label": "ham"
+    },
+    {
+        "input": "What time you thinkin of goin?",
+        "label": "ham"
+    },
+    {
+        "input": "Get a FREE mobile video player FREE movie. To collect text GO to 89105. Its free! Extra films can be ordered t's and c's apply. 18 yrs only",
+        "label": "spam"
+    },
+    {
+        "input": "Save money on wedding lingerie at www.bridal.petticoatdreams.co.uk Choose from a superb selection with national delivery. Brought to you by WeddingFriend",
+        "label": "spam"
+    },
+    {
+        "input": "Your board is working fine. The issue of overheating is also reslove. But still software inst is pending. I will come around 8'o clock.",
+        "label": "ham"
+    },
+    {
+        "input": "Yes but I don't care cause I know its there!",
+        "label": "ham"
+    },
+    {
+        "input": "wiskey Brandy Rum Gin Beer Vodka Scotch Shampain Wine \\KUDI\\\"yarasu dhina vaazhthukkal. ..\"",
+        "label": "ham"
+    },
+    {
+        "input": "Mon okie lor... Haha, best is cheap n gd food la, ex oso okie... Depends on whether wana eat western or chinese food... Den which u prefer... ",
+        "label": "ham"
+    },
+    {
+        "input": "Sitting ard nothing to do lor. U leh busy w work?",
+        "label": "ham"
+    },
+    {
+        "input": "Its  &lt;#&gt; k here oh. Should i send home for sale.",
+        "label": "ham"
+    },
+    {
+        "input": "Sorry. || mail? || ",
+        "label": "ham"
+    },
+    {
+        "input": "Ya just telling abt tht incident..",
+        "label": "ham"
+    },
+    {
+        "input": "Yes we were outside for like 2 hours. And I called my whole family to wake them up cause it started at 1 am",
+        "label": "ham"
+    },
+    {
+        "input": "Ugh just got outta class",
+        "label": "ham"
+    },
+    {
+        "input": "Nowadays people are notixiquating the laxinorficated opportunity for bambling of entropication.... Have you ever oblisingately opted ur books for the masteriastering amplikater of fidalfication? It is very champlaxigating, i think it is atrocious.. Wotz Ur Opinion???? Junna",
+        "label": "ham"
+    },
+    {
+        "input": "I dont have any of your file in my bag..i was in work when you called me.i 'll tell you if i find anything in my room.",
+        "label": "ham"
+    },
+    {
+        "input": "No need lar. Jus testing e phone card. Dunno network not gd i thk. Me waiting 4 my sis 2 finish bathing so i can bathe. Dun disturb u liao u cleaning ur room.",
+        "label": "ham"
+    },
+    {
+        "input": "Ok. I.ll do you right later.",
+        "label": "ham"
+    },
+    {
+        "input": "Friendship poem: Dear O Dear U R Not Near But I Can Hear Dont Get Fear Live With Cheer No More Tear U R Always my Dear. Gud ni8",
+        "label": "ham"
+    },
+    {
+        "input": "Have your lunch and come quickly and open the door:)",
+        "label": "ham"
+    },
+    {
+        "input": "Not heard from U4 a while. Call me now am here all night with just my knickers on. Make me beg for it like U did last time 01223585236 XX Luv Nikiyu4.net",
+        "label": "spam"
+    },
+    {
+        "input": "I am back. Bit long cos of accident on a30. Had to divert via wadebridge.I had a brilliant weekend thanks. Speak soon. Lots of love",
+        "label": "ham"
+    },
+    {
+        "input": "K.. I yan jiu liao... Sat we can go 4 bugis vill one frm 10 to 3 den hop to parco 4 nb. Sun can go cine frm 1030 to 2, den hop to orc mrt 4 hip hop at 4...",
+        "label": "ham"
+    },
+    {
+        "input": "Bloomberg -Message center +447797706009 Why wait? Apply for your future http://careers. bloomberg.com",
+        "label": "spam"
+    },
+    {
+        "input": "i am seeking a lady in the street and a freak in the sheets. Is that you?",
+        "label": "ham"
+    },
+    {
+        "input": "My phone",
+        "label": "ham"
+    },
+    {
+        "input": "Haha figures, well I found the piece and priscilla's bowl",
+        "label": "ham"
+    },
+    {
+        "input": "Actually fuck that, just do whatever, do find an excuse to be in tampa at some point before january though",
+        "label": "ham"
+    },
+    {
+        "input": "URGENT! We are trying to contact U. Todays draw shows that you have won a \u00e5\u00a3800 prize GUARANTEED. Call 09050001808 from land line. Claim M95. Valid12hrs only",
+        "label": "spam"
+    },
+    {
+        "input": "yay! finally lol. i missed our cinema trip last week :-(",
+        "label": "ham"
+    },
+    {
+        "input": "All day working day:)except saturday and sunday..",
+        "label": "ham"
+    },
+    {
+        "input": "aathi..where are you dear..",
+        "label": "ham"
+    },
+    {
+        "input": "Heart is empty without love.. Mind is empty without wisdom.. Eyes r empty without dreams &amp; Life is empty without frnds.. So Alwys Be In Touch. Good night &amp; sweet dreams",
+        "label": "ham"
+    },
+    {
+        "input": "I think I\u0089\u00db\u00f7m waiting for the same bus! Inform me when you get there, if you ever get there.",
+        "label": "ham"
+    },
+    {
+        "input": "You getting back any time soon?",
+        "label": "ham"
+    },
+    {
+        "input": ", how's things? Just a quick question.",
+        "label": "ham"
+    },
+    {
+        "input": "Night has ended for another day, morning has come in a special way. May you smile like the sunny rays and leaves your worries at the blue blue bay. Gud mrng",
+        "label": "ham"
+    },
+    {
+        "input": "I can probably come by, everybody's done around  &lt;#&gt;  right?",
+        "label": "ham"
+    },
+    {
+        "input": "I got it before the new year cos yetunde said she wanted to surprise you with it but when i didnt see money i returned it mid january before the  &lt;#&gt; day return period ended.",
+        "label": "ham"
+    },
+    {
+        "input": "I can ask around but there's not a lot in terms of mids up here",
+        "label": "ham"
+    },
+    {
+        "input": "Be sure to check your yahoo email. We sent photos yesterday",
+        "label": "ham"
+    },
+    {
+        "input": "What was she looking for?",
+        "label": "ham"
+    },
+    {
+        "input": "Wherre's my boytoy ? :-(",
+        "label": "ham"
+    },
+    {
+        "input": "Do you want a NEW video phone750 anytime any network mins 150 text for only five pounds per week call 08000776320 now or reply for delivery tomorrow",
+        "label": "spam"
+    },
+    {
+        "input": "Hello, my love! How goes that day ? I wish your well and fine babe and hope that you find some job prospects. I miss you, boytoy ... *a teasing kiss*",
+        "label": "ham"
+    },
+    {
+        "input": "Tell my  bad character which u Dnt lik in me. I'll try to change in  &lt;#&gt; . I ll add tat 2 my new year resolution. Waiting for ur reply.Be frank...good morning.",
+        "label": "ham"
+    },
+    {
+        "input": "No:-)i got rumour that you going to buy apartment in chennai:-)",
+        "label": "ham"
+    },
+    {
+        "input": "Yeah, probably earlier than that",
+        "label": "ham"
+    },
+    {
+        "input": "Change windows logoff sound..",
+        "label": "ham"
+    },
+    {
+        "input": "Still i have not checked it da. . .",
+        "label": "ham"
+    },
+    {
+        "input": "I'm also came to room.",
+        "label": "ham"
+    },
+    {
+        "input": "Huh but i got lesson at 4 lei n i was thinkin of going to sch earlier n i tot of parkin at kent vale...  ",
+        "label": "ham"
+    },
+    {
+        "input": "Ok.",
+        "label": "ham"
+    },
+    {
+        "input": "I will reach office around  &lt;DECIMAL&gt; . &amp; my mobile have problem. You cann't get my voice. So call you asa i'll free",
+        "label": "ham"
+    },
+    {
+        "input": "Cool, text me when you head out",
+        "label": "ham"
+    },
+    {
+        "input": "You are being contacted by our dating service by someone you know! To find out who it is, call from a land line 09050000878. PoBox45W2TG150P",
+        "label": "spam"
+    },
+    {
+        "input": "Wan2 win a Meet+Greet with Westlife 4 U or a m8? They are currently on what tour? 1)Unbreakable, 2)Untamed, 3)Unkempt. Text 1,2 or 3 to 83049. Cost 50p +std text",
+        "label": "spam"
+    },
+    {
+        "input": "Happy birthday... May u find ur prince charming soon n dun work too hard...",
+        "label": "ham"
+    },
+    {
+        "input": "Oh, the grand is having a bit of a party but it doesn't mention any cover charge so it's probably first come first served",
+        "label": "ham"
+    },
+    {
+        "input": "You said to me before i went back to bed that you can't sleep for anything.",
+        "label": "ham"
+    },
+    {
+        "input": "I hope you arnt pissed off but id would really like to see you tomorrow. Love me xxxxxxxxxxxxxX",
+        "label": "ham"
+    },
+    {
+        "input": "Dorothy@kiefer.com (Bank of Granite issues Strong-Buy) EXPLOSIVE PICK FOR OUR MEMBERS *****UP OVER 300% *********** Nasdaq Symbol CDGT That is a $5.00 per..",
+        "label": "spam"
+    },
+    {
+        "input": "says the  &lt;#&gt;  year old with a man and money. I'm down to my last  &lt;#&gt; . Still waiting for that check.",
+        "label": "ham"
+    },
+    {
+        "input": "I will come to ur home now",
+        "label": "ham"
+    },
+    {
+        "input": "Free any day but i finish at 6 on mon n thurs...",
+        "label": "ham"
+    },
+    {
+        "input": "Will you be here for food",
+        "label": "ham"
+    },
+    {
+        "input": "life alle mone,eppolum oru pole allalo",
+        "label": "ham"
+    },
+    {
+        "input": "Nite...",
+        "label": "ham"
+    },
+    {
+        "input": "Two fundamentals of cool life: \\Walk",
+        "label": "ham"
+    },
+    {
+        "input": "Camera quite good, 10.1mega pixels, 3optical and 5digital dooms. Have a lovely holiday, be safe and i hope you hav a good journey! Happy new year to you both! See you in a couple of weeks! ",
+        "label": "ham"
+    },
+    {
+        "input": "Hi Petey!noi\u00e5\u00d5m ok just wanted 2 chat coz avent spoken 2 u 4 a long time-hope ur doin alrite.have good nit at js love ya am.x",
+        "label": "ham"
+    },
+    {
+        "input": "I just saw ron burgundy captaining a party boat so yeah",
+        "label": "ham"
+    },
+    {
+        "input": "I'm serious. You are in the money base",
+        "label": "ham"
+    },
+    {
+        "input": "Already one guy loving you:-.",
+        "label": "ham"
+    },
+    {
+        "input": "Staff of placement training in Amrita college.",
+        "label": "ham"
+    },
+    {
+        "input": "I always chat with you. In fact i need money can you raise me?",
+        "label": "ham"
+    },
+    {
+        "input": "I'm job profile seems like bpo..",
+        "label": "ham"
+    },
+    {
+        "input": "Well, I was about to give up cos they all said no they didn\u0089\u00db\u00f7t do one nighters. I persevered and found one but it is very cheap so i apologise in advance. It is just somewhere to sleep isnt it?",
+        "label": "ham"
+    },
+    {
+        "input": "So you think i should actually talk to him? Not call his boss in the morning? I went to this place last year and he told me where i could go and get my car fixed cheaper. He kept telling me today how much he hoped i would come back in, how he always regretted not getting my number, etc.",
+        "label": "ham"
+    },
+    {
+        "input": "Are you willing to go for apps class.",
+        "label": "ham"
+    },
+    {
+        "input": "Hanging out with my brother and his family",
+        "label": "ham"
+    },
+    {
+        "input": "No it will reach by 9 only. She telling she will be there. I dont know",
+        "label": "ham"
+    },
+    {
+        "input": "Hey... are you going to quit soon? Xuhui and i working till end of the month ",
+        "label": "ham"
+    },
+    {
+        "input": "Im sorry bout last nite it wasn\u00e5\u00d5t ur fault it was me, spouse it was pmt or sumthin! U 4give me? I think u shldxxxx",
+        "label": "ham"
+    },
+    {
+        "input": "Try neva mate!!",
+        "label": "ham"
+    },
+    {
+        "input": "Yeah that'd pretty much be the best case scenario",
+        "label": "ham"
+    },
+    {
+        "input": "I not free today i haf 2 pick my parents up tonite...",
+        "label": "ham"
+    },
+    {
+        "input": "\\HEY BABE! FAR 2 SPUN-OUT 2 SPK AT DA MO... DEAD 2 DA WRLD. BEEN SLEEPING ON DA SOFA ALL DAY",
+        "label": "ham"
+    },
+    {
+        "input": "Should i send you naughty pix? :)",
+        "label": "ham"
+    },
+    {
+        "input": "You are a \u00e5\u00a31000 winner or Guaranteed Caller Prize, this is our Final attempt to contact you! To Claim Call 09071517866 Now! 150ppmPOBox10183BhamB64XE",
+        "label": "spam"
+    },
+    {
+        "input": "Xmas & New Years Eve tickets are now on sale from the club, during the day from 10am till 8pm, and on Thurs, Fri & Sat night this week. They're selling fast!",
+        "label": "spam"
+    },
+    {
+        "input": "Tyler (getting an 8th) has to leave not long after 9, can you get here in like an hour?",
+        "label": "ham"
+    },
+    {
+        "input": "Prepare to be pounded every night...",
+        "label": "ham"
+    },
+    {
+        "input": "Actually, my mobile is full of msg. And i m doing a work online, where i need to send them  &lt;#&gt;  sent msg i wil explain u later.",
+        "label": "ham"
+    },
+    {
+        "input": "Sorry, I'll call later",
+        "label": "ham"
+    },
+    {
+        "input": "Good evening! How are you?",
+        "label": "ham"
+    },
+    {
+        "input": "I'm at home. Please call",
+        "label": "ham"
+    },
+    {
+        "input": "Oic cos me n my sis got no lunch today my dad went out... So dunno whether 2 eat in sch or wat...",
+        "label": "ham"
+    },
+    {
+        "input": "Mmmmm ... It was sooooo good to wake to your words this morning, my Love!! Mmmm fuck ... I love you too, my Lion ... *devouring kiss from across the sea*",
+        "label": "ham"
+    }
+]
